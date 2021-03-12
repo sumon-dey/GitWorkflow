@@ -1,0 +1,16 @@
+.gradle
+bin/**
+/build/
+*.class
+.project
+.metadata
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
